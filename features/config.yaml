@@ -1,0 +1,4 @@
+qa:
+  end_point: 'https://api_url'
+  
+staging:
